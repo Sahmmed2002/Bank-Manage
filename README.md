@@ -1,5 +1,5 @@
 # Bank-Management
-##Bank Management System – C++
+## Bank Management System – C++
 
 Developed a CLI-based banking application to manage accounts with operations like deposit, withdrawal, and balance check.
 
